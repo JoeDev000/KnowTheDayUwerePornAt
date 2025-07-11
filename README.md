@@ -130,16 +130,6 @@ Zeller's Congruence is mathematically proven and works for:
 
 The algorithm is widely used in computer science and mathematics for date calculations due to its accuracy and efficiency.
 
-## Future Improvements 🔄
-
-- [ ] Add cross-platform compatibility (Linux/macOS support)
-- [ ] Fix spelling errors in output and day names
-- [ ] Add comprehensive date validation (impossible dates)
-- [ ] Support for Julian calendar dates
-- [ ] Add historical date information
-- [ ] Implement proper error handling
-- [ ] Create platform-independent version
-
 ## Author 👨‍💻
 
 **Joe Ali**  
